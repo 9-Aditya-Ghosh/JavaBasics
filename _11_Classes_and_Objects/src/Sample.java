@@ -27,8 +27,12 @@ public class Sample {
         person2.age = 20;
 
         System.out.println(person2.name);
+        System.out.println(person2.age);
 
+        System.out.println(person1.name);
+        System.out.println(person1.age);
     }
 
-    // TODO Add a metod which prints age of the person
+    // TODO Add a method which prints age of the person // done
+
 }
